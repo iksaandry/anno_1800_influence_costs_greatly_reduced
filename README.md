@@ -1,79 +1,79 @@
 # Anno 1800 Influence costs greatly reduced
 Influence costs greatly reduced for Anno 1800
 
-Trade Union 
+### Trade Union 
     - Influence: 1
 
-Townhall 
+### Townhall 
     - Influence: 1
 
-Harbour Master's Office 
+### Harbour Master's Office 
     - Influence: 1
 
-Defense Buildings
+### Defensive Buildings
     - Influence: 20% (of original cost)
 
-Propaganda 
+### Propaganda 
     - Influence: 100% (of original cost)
 
-Commuter Pier 
+### Commuter Pier 
     - FreeAmount: 50 
     - Influence: 1
 
-CharterRoutes
+### CharterRoutes
     - FreeAmount: 100 
     - Influence: 1
 
-Shares 
+### Shares 
     - Influence: 10
 
-BotanicModule 
+### Botanic Garden Module 
     - Influence: 1
 
-ZooModule 
+### Zoo Module 
     - Influence: 1
 
-MuseumModule 
+### Museum Module 
     - Influence: 1
 
-AirShip 
+### AirShip 
     - Influence: 3
 
-Schooner 
+### Schooner 
     - Influence: 1
 
-Gunboat 
+### Gunboat 
     - Influence: 1
 
-Ship of the line 
+### Ship of the line 
     - Influence: 3
 
-Frigate 
+### Frigate 
     - Influence: 2
 
-Clipper 
+### Clipper 
     - Influence: 2
 
-Battle Cruiser 
+### Battle Cruiser 
     - Influence: 4
 
-Monitor 
+### Monitor 
     - Influence: 3
 
-Cargo Ship 
+### Cargo Ship 
     - Influence: 3
 
-Oil Tanker 
+### Oil Tanker 
     - Influence: 3
 
-Pyrphorian Battle Cruiser 
+### Pyrphorian Battle Cruiser 
     - Influence: 5
 
-Pyrphorian Warship 
+### Pyrphorian Warship 
     - Influence: 4
 
-Stravaganza Streamer 
+### Stravaganza Streamer 
     - Influence: 3
 
-The Great Eastern 
+### The Great Eastern 
     - Influence: 4
