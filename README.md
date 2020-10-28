@@ -7,14 +7,14 @@ Trade Union
 Townhall 
     - Influence: 1
 
-HarborOffice 
+Harbour Master's Office 
     - Influence: 1
 
-DefenseBuilding 
-    - Influence: 20%
+Defense Buildings
+    - Influence: 20% (of original cost)
 
 Propaganda 
-    - Influence: 100%
+    - Influence: 100% (of original cost)
 
 Commuter Pier 
     - FreeAmount: 50 
