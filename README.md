@@ -21,7 +21,7 @@ Commuter Pier
     - Influence: 1
 
 CharterRoutes
-    FreeAmount: 100 
+    - FreeAmount: 100 
     - Influence: 1
 
 Shares 
